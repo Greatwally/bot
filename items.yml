@@ -1,0 +1,45 @@
+items:
+- classid: 360454763
+  instanceid: 188530139
+  price: 200
+  # TEC-9 | œ≈—◊¿Õ¿ﬂ ¡”–ﬂ ÙÚ
+- classid: 360460776
+  instanceid: 188530139
+  price: 100
+  # Negev | œÓ˜‚‡ ÙÚ
+- classid: 520026696
+  instanceid: 188530139
+  price: 100
+  # Negev | œÛÒÚ˚ÌÌ‡ˇ ‡Ú‡Í‡ ÙÚ
+- classid: 360461815
+  instanceid: 188530139
+  price: 1900
+  # USP-S | —Ú‡Ê Ï‚
+- classid: 360465952
+  instanceid: 188530139
+  price: 1000
+  # SG 553 | œÛÎ¸Ò ÙÚ
+- classid: 638241450
+  instanceid: 188530139
+  price: 1500
+  # M4A4 | √ËÙÓÌ ÙÚ
+- classid: 520026483
+  instanceid: 188530139
+  price: 900
+  # CZ75-Auto | “Ë„ ÙÚ
+- classid: 720320344
+  instanceid: 188530139
+  price: 5000
+  # AK-47 |  ‡ÚÂÎ¸ ÙÚ
+- classid: 720318454
+  instanceid: 188530139
+  price: 6000
+  # M4A4 | DRAGON KING ÙÚ
+- classid: 506865564
+  instanceid: 188530139
+  price: 3500
+  # M4A4 | œÛÒÚ˚ÌÌ‡ˇ ‡Ú‡Í‡ ÙÚ
+- classid: 360475142
+  instanceid: 188530139
+  price: 4000
+  # AUG | ’‡ÏÂÎÂÓÌ ÙÚ
