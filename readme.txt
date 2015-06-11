@@ -8,6 +8,7 @@
 8. At the end of php.ini, add following line:
      extension_dir = "ext"
      extension=php_pthreads.dll
+     extension=php_curl.dll
 9. Copy all bot files into c:\php
 10. Open command line in windows and perform commands:
     cd c:\php
